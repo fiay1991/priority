@@ -1,0 +1,12 @@
+
+添加spring容器类到公共代码模块
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch feature/common_api
+# Your branch is up to date with 'origin/feature/common_api'.
+#
+# Changes to be committed:
+#	new file:   src/main/java/com/jay/eshop/common/SpringApplicationContext.java
+#
